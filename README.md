@@ -5,7 +5,7 @@
 
 ## Context
 
-You're joining a team building **ChessKidAcademy**, a chess learning app for ages 6-18. The product is in beta with 5K users. Early feedback shows:
+You're joining a team building **ChessKidAcademy**, a chess learning app for ages 6-18. The product is in beta with 5K users. Early chess board feedback shows:
 
 - **Younger kids (6-8)** struggle with the piece movement rules and often make illegal moves
 - **Pre-teens (9-12)** find the constant rule hints "baby-ish" and want a real challenge
